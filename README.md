@@ -13,12 +13,17 @@ UK Biobank traits.
 5. **SME_MCV.CSV** - summary statistics for the trait mean corpuscular volume 
    (MCV)
 
+## Install the Source Code
+
 The source code can be installed with `R CMD INSTALL sme_1.0.0.tar.gz`. The 
 package is maintained by the authors of the paper and is available on GitHub
 at https://github.com/lcrawlab/mmer/. Refer to the repo for an up-to-date 
 version.
 
+## CSV File Description
+
 Each CSV file contains the following columns:
+
 1.	**id** - The identifier of the genetic variant.
 2.	**chromosome** - The chromosome on which the genetic variant is located.
 3.	**position** - The position of the genetic variant on the chromosome.
