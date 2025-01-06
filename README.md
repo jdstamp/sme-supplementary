@@ -5,13 +5,14 @@ summary statistics for the genome-wide interaction analysis using SME to study
 UK Biobank traits.
 
 1. **sme_1.0.0.tar.gz** - source code
-2. **SME_HCT.CSV** - summary statistics for the trait hematocrit (HCT)
-3. **SME_MCH.CSV** - summary statistics for the trait mean corpuscular 
+2. **table_S2_MCH.csv** - summary statistics for the trait mean corpuscular
    hemoglobin (MCH)
-4. **SME_MCHC.CSV** - summary statistics for the trait mean corpuscular 
+3. **table_S3_MCHC.csv** - summary statistics for the trait mean corpuscular 
    hemoglobin concentration (MCHC) 
-5. **SME_MCV.CSV** - summary statistics for the trait mean corpuscular volume 
+4. **table_S4_MCV.csv** - summary statistics for the trait mean corpuscular 
+   volume 
    (MCV)
+5. **table_S5_HCT.csv** - summary statistics for the trait hematocrit (HCT)
 
 ## Install the Source Code
 
