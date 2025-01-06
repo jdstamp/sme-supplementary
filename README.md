@@ -1,4 +1,4 @@
-# Supplementary Data for "TITLE PLACEHOLDER"
+# Supplementary Data for Stamp et al. - Sparse modeling of interactions enables fast detection of genome-wide epistasis in biobank-scale studies (2025)
 
 This repository provides the source code of SME as well as the full list of 
 summary statistics for the genome-wide interaction analysis using SME to study 
