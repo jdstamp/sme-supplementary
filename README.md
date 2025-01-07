@@ -4,7 +4,7 @@ This repository provides the source code of SME as well as the full list of
 summary statistics for the genome-wide interaction analysis using SME to study 
 UK Biobank traits.
 
-1. **sme_0.0.1.tar.gz** - source code
+1. **sme_0.0.1.tar.gz** - source code version that produced below data
 2. **table_S2_MCH.csv** - summary statistics for the trait mean corpuscular
    hemoglobin (MCH)
 3. **table_S3_MCHC.csv** - summary statistics for the trait mean corpuscular 
@@ -16,9 +16,9 @@ UK Biobank traits.
 
 ## Install the Source Code
 
-The source code can be installed with `R CMD INSTALL sme_0.0.1.tar.gz`. The 
+The source code the data can be installed with `R CMD INSTALL sme_0.0.1.tar.gz`. The 
 package is maintained by the authors of the paper and is available on GitHub
-at https://github.com/lcrawlab/mmer/. Refer to the repo for an up-to-date 
+at https://github.com/lcrawlab/sme/. Refer to the repo for an up-to-date 
 version.
 
 ## CSV File Description
