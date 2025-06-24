@@ -21,7 +21,7 @@ UK Biobank traits.
 
 The source code can be installed with `R CMD INSTALL sme_1.0.0.tar.gz`. The 
 package is maintained by the authors of the paper and is available on GitHub
-at https://github.com/lcrawlab/mmer/. Refer to the repo for an up-to-date 
+at https://github.com/lcrawlab/sme/. Refer to the repo for an up-to-date 
 version.
 
 ## CSV File Description
