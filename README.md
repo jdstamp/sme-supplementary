@@ -1,7 +1,6 @@
-# Supplementary Data for "TITLE PLACEHOLDER"
+# Supplementary Data for "Sparse modeling of interactions enables fast detection of genome-wide epistasis in biobank-scale studies"
 
-This repository provides the source code of SME as well as the full list of 
-summary statistics for the genome-wide interaction analysis using SME to study 
+This repository provides the source code of the sparse marginal epistasis test (SME) as well as the full list of summary statistics for the genome-wide interaction analysis using SME to study 
 UK Biobank traits.
 
 1. **sme_1.0.0.tar.gz** - source code
@@ -38,3 +37,7 @@ Each CSV file contains the following columns:
 6.	**trait** - The trait being analyzed in the genome-wide interaction study.
 7.	**external_data** - External data type used to induce sparsity in the 
       SME model.
+
+# Archived FAME sources
+
+The file FAME-cfdd03f.zip contains the source code of FAME used in this study.
